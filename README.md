@@ -1,4 +1,4 @@
-Hello, my name is Joao, I am 25 yo and I am from Portugal.
+Hello!
 
 I am studying to become a software developer, at the moment I am learning Python and C/C++, so that's what I will be sharing the most from now.
 
